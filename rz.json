@@ -72,7 +72,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"camera; microphone; display-capture"
+                 "value":"camera; microphone; display-capture; fullscreen"
                 }, 
                 {
                  "name":"silent",
