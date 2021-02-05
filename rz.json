@@ -67,7 +67,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa.kdv-fh-bayern.de\/maps\/rz\/kdv-besprechung.html"
+                 "value":"https:\/\/vc.kdv-fh-bayern.de\/b\/kdv-besprechung"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"camera; microphone; display-capture"
                 }, 
                 {
                  "name":"silent",
